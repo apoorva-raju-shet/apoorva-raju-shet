@@ -6,17 +6,15 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
-🎓 I’m **Apoorva Raju Shet**, a Computer Science undergraduate passionate about **Artificial Intelligence, Data Science, and Software Development**. I am driven by curiosity and the desire to understand how technology and data can be used to create impactful solutions for real-world problems.
-
-My interests lie in exploring **intelligent systems, data-driven decision making, and building software applications** that improve efficiency and user experience. I enjoy working on projects that combine **programming, data analysis, and innovative thinking**.
-
-I am always eager to **connect with professionals, collaborate on innovative ideas, and continue growing as a future AI and Data Science professional**.
+🎓 Computer Science Engineering Undergraduate  
+🤖 Passionate about **Artificial Intelligence & Data Science**  
+💻 Interested in **Software Development and Innovative Tech**  
+🌱 Currently learning **Machine Learning, APIs, and Web Development**  
+🧠 Enjoy solving **technical challenges and participating in CTF events**
 
 ---
-
 ## 🔬 Technical Interests
 
 - Artificial Intelligence
@@ -30,62 +28,76 @@ I am always eager to **connect with professionals, collaborate on innovative ide
 ## 🛠️ Skills & Technologies
 
 ### Programming
-- Python
-- C
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 
 ### Web Development
-- HTML
-- CSS
-- JavaScript
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
 ### Databases
-- SQL
-- MongoDB
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ### Tools
-- Git
-- GitHub
-- VS Code
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
-### 🍎 ML Food Nutrition Analyzer
+🔹 **Movie Search Web App**  
+A web application that fetches movie data using an API and displays results dynamically using JavaScript.
 
-The **ML Food Nutrition Analyzer** is a web-based application that allows users to enter a food name and retrieve its nutritional information.
+🔹 **AI Food Calorie Detection / ML Food Nutrition Analyzer**  
+A web-based application that allows users to enter a food name and retrieve its nutritional details such as **Calories, Protein, Carbohydrates, Fiber, Sugar, and Potassium**.
 
-The system provides details such as:
+The system fetches data from a **MongoDB database** and processes it using a **Machine Learning model integrated with Flask**.
 
-- Calories
-- Protein
-- Carbohydrates
-- Fiber
-- Sugar
-- Potassium
+---
 
-The application retrieves data from a **MongoDB database** and processes it using a **machine learning model integrated with Flask**.
+## 🏆 Achievements & Certifications
 
-**Technologies Used**
-- Python
-- Flask
-- Machine Learning
-- MongoDB
-- HTML / CSS
+- Smart India Hackathon Participant  
+- AI for Bharat Hackathon  
+- IBM – Front End Technologies  
+- IBM – Data Visualization  
+- Ethnotech – Software Engineering in C  
+- Ethnotech – Software Engineering in Java  
+
+---
+
+## 📊 GitHub Stats
+
+![Apoorva's GitHub stats](https://github-readme-stats.vercel.app/api?username=apoorva-raju-shet&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=apoorva-raju-shet&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorva-raju-shet&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/apoorva-raju-shet-067824373
+📧 Email: apoorvarshet1@gmail.com  
 
-💻 GitHub: https://github.com/apoorva-raju-shet
+💼 LinkedIn:  
+https://www.linkedin.com/in/apoorva-raju-shet-067824373  
+
+💻 GitHub:  
+https://github.com/apoorva-raju-shet  
 
 ---
 
-⭐ Always learning, building, and exploring new technologies.
+⭐ **Always learning, building, and exploring new technologies.**
